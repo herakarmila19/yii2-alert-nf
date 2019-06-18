@@ -1,0 +1,21 @@
+{
+    "name": "herakarmila/yii2-alert-nf",
+    "description": "Widget Alert twitter boostrap for Yii Framework 2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension.alert"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hera Karmila",
+            "email": "herakarmila@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "herakarmila\\alert\\": ""
+        }
+    }
+}
