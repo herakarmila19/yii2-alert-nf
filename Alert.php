@@ -1,5 +1,5 @@
 <?php
-namespace app\widgets;
+namespace herakarmila\alert;
 
 use Yii;
 
